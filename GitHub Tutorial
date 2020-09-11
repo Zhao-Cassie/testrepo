@@ -1,0 +1,9 @@
+# Basic coding
+
+# Open and edit any file in the editor.
+# After saving the file,
+git add .
+
+# And commit the changes with the message:
+git commit -m “message”
+git push
